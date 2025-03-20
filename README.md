@@ -1,7 +1,7 @@
 # Java Spring Boot Employee and Vehicle Management System
 
 ## Author
-Author: Vikram Gardella
+Vikram Gardella
 
 ## Date
 10-29-2018
