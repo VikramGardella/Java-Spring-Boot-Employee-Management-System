@@ -1,5 +1,11 @@
 # Java Spring Boot Employee and Vehicle Management System
 
+## Author
+Author: Vikram Gardella
+
+## Date
+10-29-2018
+
 ## Overview
 This project is a Java-based Spring Boot application that manages a company's employees and vehicle fleet's data.. It includes an Employee Management System with database connectivity and a Vehicle System utilizing dependency injection.
 
@@ -71,12 +77,6 @@ project-root/
 - **Vehicle System**
   - The `Driver` class initializes the Spring context and retrieves a `Car` bean.
   - Call `car.start()` to start the vehicle and `car.drive()` to set state to driving.
-
-## Author
-Author: Vikram Gardella
-
-## Date
-10-29-2018
 
 ## License
 This project is licensed under the MIT License.
